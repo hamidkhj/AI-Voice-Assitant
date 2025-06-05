@@ -54,7 +54,7 @@ ai-voice-assistant/
 └── README.md # You're here!
 
 
-🔑 API Keys Required
+## 🔑 API Keys Required
 Create a .env file in backend/ with:
 
 - DEEPGRAM_API_KEY=your_deepgram_key
@@ -62,10 +62,10 @@ Create a .env file in backend/ with:
 - TOGATHERAI_API_KEY=your_togetherai_key
 - ELEVENLABS_API_KEY=your_elevenlabs_key
 
-⭐️ Contributing
+## ⭐️ Contributing
 Suggestions, pull requests, and feedback are welcome!
 
-🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 Hi, I'm Hamid Kouhpeimay Jahromi, a master's student in Data Science and aspiring Machine Learning Engineer.
 This project was built to explore real-world voice interfaces using Retrieval-Augmented Generation and multi-modal AI.
 
