@@ -64,3 +64,9 @@ ELEVENLABS_API_KEY=your_elevenlabs_key
 
 ⭐️ Contributing
 Suggestions, pull requests, and feedback are welcome!
+
+🙋‍♂️ About Me
+Hi, I'm Hamid Kouhpeimay Jahromi, a master's student in Data Science and aspiring Machine Learning Engineer.
+This project was built to explore real-world voice interfaces using Retrieval-Augmented Generation and multi-modal AI.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hamid-kouhpeimay-jahromi-05893516a/) or reach out if you want to collaborate!
