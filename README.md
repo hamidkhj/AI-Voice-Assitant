@@ -57,10 +57,10 @@ ai-voice-assistant/
 🔑 API Keys Required
 Create a .env file in backend/ with:
 
-DEEPGRAM_API_KEY=your_deepgram_key
-COHERE_API_KEY=your_cohere_key
-TOGATHERAI_API_KEY=your_togetherai_key
-ELEVENLABS_API_KEY=your_elevenlabs_key
+- DEEPGRAM_API_KEY=your_deepgram_key
+- COHERE_API_KEY=your_cohere_key
+- TOGATHERAI_API_KEY=your_togetherai_key
+- ELEVENLABS_API_KEY=your_elevenlabs_key
 
 ⭐️ Contributing
 Suggestions, pull requests, and feedback are welcome!
